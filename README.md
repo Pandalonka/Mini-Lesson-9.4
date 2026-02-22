@@ -54,22 +54,7 @@ Technologies and tools used in these projects:
 - Docker (optional)
 - Git
 
-### Setup
-```bash
-# Clone the repository
-git clone https://github.com/Pandalonka/your-repo-name.git
 
-# Navigate to project directory
-cd your-repo-name
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the project
-python main.py
-```
-
----
 
 <a class="anchor" id="contact"></a>
 ## Contact Information
