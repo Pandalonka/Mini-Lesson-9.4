@@ -88,4 +88,4 @@ python main.py
 
 ---
 
-**© 2026 | MIT xPRO Data Engineering Portfolio**
+**© 2026 | MIT xPRO Data Engineering Portfolio by Pandalonka**
