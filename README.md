@@ -61,7 +61,7 @@ Technologies and tools used in these projects:
 
 **GitHub**: [Pandalonka](https://github.com/Pandalonka)
 
-**Location**: Switzerland
+**Location**: CH
 
 **Available for**: Data engineering opportunities in industrial and financial sectors
 
